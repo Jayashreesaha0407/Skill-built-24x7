@@ -1,13 +1,13 @@
 /********** Template CSS **********/
 :root {
-    --primary: #f69050;
+    --primary: #bb6aeb;
     --light: #F0FBFC;
     --light: #f0e4de;
     --dark: #181d38;
 }
 
 .btn {
-    background-color: rgba(231, 94, 158, 0.822);
+    background-color: #9325d3;
     border: none;
 }
 
